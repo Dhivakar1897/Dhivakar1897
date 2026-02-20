@@ -15,7 +15,7 @@ I enjoy cleaning data, analyzing trends, and building dashboards to support deci
 - SQL Data Exploration Projects  
 
 ## 📈 What I'm Learning  
-- Advanced SQL  
+- Advanced Excel  
 - Power BI DAX  
 - Data Visualization best practices  
 - Statistics for Data Analysis
