@@ -11,9 +11,9 @@ I am continuously improving my skills in Excel, SQL, and Power BI by working on 
 - Power BI (Dashboards, DAX basics, Data Modeling)
 
 ## 📊 Projects  
-- **Road Accident Analysis Dashboard (Excel)** – Analyzed accident data to identify trends by year, severity, and category  
-- HR Analysis using Excel  
-- SQL Data Exploration Projects  
+- **Road Accident Analysis Dashboard (Excel)** – Analyzed accident data to identify trends by year, severity, and category.  
+- **HR Analysis using Excel** – Built an Excel dashboard using Pivot Tables and charts to track sales performance.  
+- **SQL Data Exploration Projects** – Used SQL queries to explore and summarize datasets.  
 
 ## 📈 What I'm Learning  
 - Advanced Excel  
@@ -26,7 +26,7 @@ Seeking an entry-level Data Analyst role or internship where I can apply my skil
 
 ## 📫 Contact  
 - Email: dhivakar1897@gmail.com  
-- LinkedIn: https://linkedin.com/in/dhivakar1897## Hi there 👋
+- LinkedIn: https://linkedin.com/in/dhivakar1897
 
 <!--
 **Dhivakar1897/Dhivakar1897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
