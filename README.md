@@ -1,8 +1,9 @@
 # Hi, I'm Dhivakar 👋  
 
 ## 👨‍💻 About Me  
-I am an aspiring Data Analyst with a strong interest in working with data and creating meaningful insights.  
-I enjoy cleaning data, analyzing trends, and building dashboards to support decision-making.
+I am an aspiring Data Analyst who works with real datasets to clean, analyze, and visualize data. I focus on building dashboards and extracting meaningful insights that support business decision-making.  
+
+I am continuously improving my skills in Excel, SQL, and Power BI by working on practical projects.
 
 ## 🛠 Skills  
 - Excel (Data Cleaning, Pivot Tables, Charts)  
@@ -10,18 +11,18 @@ I enjoy cleaning data, analyzing trends, and building dashboards to support deci
 - Power BI (Dashboards, DAX basics, Data Modeling)
 
 ## 📊 Projects  
-- Road Accident Analysis Dashboard (Power BI)  
-- Sales Analysis using Excel  
+- **Road Accident Analysis Dashboard (Excel)** – Analyzed accident data to identify trends by year, severity, and category  
+- HR Analysis using Excel  
 - SQL Data Exploration Projects  
 
 ## 📈 What I'm Learning  
 - Advanced Excel  
-- Power BI DAX  
+- Power BI (DAX)  
 - Data Visualization best practices  
 - Statistics for Data Analysis
 
 ## 🎯 Career Goal  
-To work as a Data Analyst where I can use data to solve real-world business problems.
+Seeking an entry-level Data Analyst role or internship where I can apply my skills in Excel, SQL, and Power BI to solve real-world data problems.
 
 ## 📫 Contact  
 - Email: dhivakar1897@gmail.com  
