@@ -17,7 +17,8 @@ I am continuously improving my skills in Excel, SQL, and Power BI by working on 
 
 ## 📈 What I'm Learning  
 - Advanced Excel  
-- Power BI (DAX)  
+- Power BI (DAX)
+- SQL
 - Data Visualization best practices  
 - Statistics for Data Analysis
 
